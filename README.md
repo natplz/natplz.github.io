@@ -1,2 +1,2 @@
 # natplz.github.io
-Respository to host my content on GitHub Pages
+Repository necessary for hosting my content on GitHub Pages
